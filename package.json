@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chonnessey/new-template"
+    "url": ""
   },
-  "author": "Adrian Camacho",
+  "author": "Dave Lindqvist",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chonnessey/new-template/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/chonnessey/new-template#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
