@@ -1,5 +1,5 @@
 # PROJECT NAME
-## By Adrian Camacho
+## By Dave Lindqvist
 
 ---
 
@@ -24,7 +24,7 @@ This project is a web application that DESCRIPTION
 
 ---
 ### Installation Instructions
-1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
+1. Clone this repo: `git clone https://github.com/Userneme/REPO URL`
 2. Enter new directory `cd REPO DIR`
 3. Install dependencies with `npm install`
 4. To run it locally, use the npm dev command `npm run start:dev`
